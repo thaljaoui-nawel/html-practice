@@ -6,19 +6,19 @@
 
     Below the `<h1>` heading that says `Ragdoll`, add an `<h2>` heading that says `About Ragdoll cats`.
 
-2.  Below the `About Ragdoll cats` heading, add `<p>` paragraphe that says:
+2.  Below the `About Ragdoll cats` heading, add `<p>` paragraph that says:
 
         The Ragdoll is a breed of cat with a distinct colorpoint coat and blue eyes. Its morphology is large and weighty, and it has a semi-long and silky soft coat.
 
 3.  On the next line, add one more `<h2>` heading that says `Breed description`.
 
 4.  Below the `Breed description` heading, add `<h3>` heading that says `Temperament`.
-5.  Below the `Temperament` heading, add `<p>` paragraphe that says:
+5.  Below the `Temperament` heading, add `<p>` paragraph that says:
 
         The Ragdoll has been known to have a very floppy and calm nature, with
         claims that these characteristics have been passed down from the Persian and Birman breeds.
 
-6.  Add another `<p>` paragraphe that says:
+6.  Add another `<p>` paragraph that says:
 
         Opinions vary as to whether this trait might be the result of genetic mutation or merely an instinctive reaction from being picked up as kittens by their mother.The extreme docility of some individuals has led to the myth that Ragdolls are resistant. Some breeders in Britain have tried to breed away from the limpness owing to concerns that extreme docility "might not be in the best interests of the cat".
 
