@@ -1,3 +1,51 @@
-# Ragdoll
+# Minimal Blog
 
 ## Tasks
+
+1. Open your `index.html` file and copy the following basic HTML structure:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Minimal Blog</title>
+  </head>
+  <body>
+    <div id="header">
+      <h1>My Minimal Blog</h1>
+      <div id="nav">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="main">
+      <div class="article">
+        <h2>Blog Post Title</h2>
+        <p>Date: July 17, 2024</p>
+        <p>
+          This is the content of my first blog post. It's minimal and simple.
+        </p>
+      </div>
+      <div class="article">
+        <h2>Another Blog Post</h2>
+        <p>Date: July 18, 2024</p>
+        <p>
+          This is the content of my second blog post. It's still minimal and
+          simple.
+        </p>
+      </div>
+    </div>
+
+    <div id="footer">
+      <p>&copy; 2024 My Minimal Blog</p>
+    </div>
+  </body>
+</html>
+```
+
+2. Replace `<div>` tags with the corresponding semantic tags, use this [link](https://www.w3schools.com/html/html5_semantic_elements.asp) to learn more about `HTML semantic elements`
