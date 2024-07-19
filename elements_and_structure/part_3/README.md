@@ -1,3 +1,11 @@
+# Photographer Portfolio Project
+
+## Task
+
+The following project is about building an informational portfolio website using some of the most common HTML elements.
+
+1. Make the `title` of the page `Photographer | Welcome`.
+
 ## Header And Navbar
 
 1. Create the `header` part of the page. Choose the right [semantic element](https://www.w3schools.com/html/html5_semantic_elements.asp).
