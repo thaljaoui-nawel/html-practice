@@ -14,21 +14,23 @@ The following project is about building an informational portfolio website using
 
 3. Inside the `navigation element`, add `h1 heading` that says `JANE`.
 
-4. Below the `h1 heading`, add an unordered list `unordered list` with `four list items`.
+4. Below the `h1 heading`, add `h3 heading` that says `Photographer`.
 
-5. In each item add the following [`Hyperlinks`](https://www.w3schools.com/html/html_links.asp): `Home, About, Work and Contact`.
+5.  Below the `h3 heading`, add an unordered list `unordered list` with `four list items`.
 
-6. Below the `nav element`, add a `div element` with `showcase id`, [learn more](https://www.w3schools.com/html/html_id.asp) about `HTML id Attribute`.
+6. In each item add the following [`Hyperlinks`](https://www.w3schools.com/html/html_links.asp): `Home, About, Work and Contact`.
 
-7. Inside the `showcase div element`, add `h1 heading` that says `Jane Doe`.
+7. Below the `nav element`, add a `div element` with `showcase id`, [learn more](https://www.w3schools.com/html/html_id.asp) about `HTML id Attribute`.
 
-8. Below the `h1 heading`, add a `paragraph`.
+8. Inside the `showcase div element`, add `h1 heading` that says `Jane Doe`.
 
-9. Below the `paragraph`, add a `hyperlink` that says `About Me`.
+9. Below the `h1 heading`, add a `paragraph`.
+
+10. Below the `paragraph`, add a `hyperlink` that says `About Me`.
 
 ## About Section
 
-1. Create the `about section` with `about id`. Choose the right [semantic element](https://www.w3schools.com/html/html5_semantic_elements.asp).
+1. Create the `about section` with `about` `id`. Choose the right [semantic element](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
 2. Inside the `about section`, add `h1 heading` that says `About Me`.
 
@@ -40,7 +42,7 @@ The following project is about building an informational portfolio website using
 
 ## Work Section
 
-1. Create the `work section` with `work id`. Choose the right [semantic element](https://www.w3schools.com/html/html5_semantic_elements.asp).
+1. Create the `work section` with `work` `id`. Choose the right [semantic element](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
 2. Inside the `work section`, add `h1 heading` that says `My Work`.
 
@@ -64,9 +66,9 @@ The following project is about building an informational portfolio website using
 
 ## Contact Section
 
-1. Create the `contact section` with `contact id`. Choose the right [semantic element](https://www.w3schools.com/html/html5_semantic_elements.asp).
+1. Create the `contact section` with `contact` `id`. Choose the right [semantic element](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
-2. Inside the `work section`, add `two content division element`. [Learn more](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div) about The Content Division element.
+2. Inside the `contact section`, add `two content division element`. [Learn more](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div) about The Content Division element.
 
 3. Inside the first `division`, add `h1 heading` that says `Contact Me`.
 
