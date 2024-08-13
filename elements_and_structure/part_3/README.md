@@ -20,7 +20,7 @@ The following project is about building an informational portfolio website using
 
 6. In each item add the following [`Hyperlinks`](https://www.w3schools.com/html/html_links.asp): `Home, About, Work and Contact`.
 
-7. Below the `nav element`, add a `div element` with `showcase id`, [learn more](https://www.w3schools.com/html/html_id.asp) about `HTML id Attribute`.
+7. Below the `nav element`, add a `div element` with `showcase` `id`, [learn more](https://www.w3schools.com/html/html_id.asp) about `HTML id Attribute`.
 
 8. Inside the `showcase div element`, add `h1 heading` that says `Jane Doe`.
 
